@@ -1,0 +1,32 @@
+/* Feel free to use your own button CSS code (from previous challenge) */
+/* Here is a sample button design */
+
+
+.btn-yours {
+    color: white;
+    padding: 15px 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    background: #ff3333;
+    transition: background 0.3s ease;
+}
+
+.btn-yours:hover {
+  background: white;
+  color: red;
+}
+
+.btn-ticket {
+    width: 10px;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    background: #ff3333;
+    transition: background 0.3s ease;
+}
+
+.btn-ticket:hover {
+  background: white;
+  color: red;
+}
